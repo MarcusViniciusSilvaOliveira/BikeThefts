@@ -1,0 +1,25 @@
+.CasosDeRouboDataTable{
+  height: 680px;
+  overflow-y: scroll;
+}
+
+.CasoDeRouboItemBranco{
+  background-color: white;
+  margin-top: 10px;
+}
+.CasoDeRouboItemCinza{
+  background-color: #f7f7f7;
+  margin-top: 10px;
+}
+
+.SemResultados{
+  color:#adadad;
+  text-align: center;
+  font-size: 12;
+}
+.ErroNaPesquisa{
+  color:red;
+  text-align: center;
+  font-size: 12;
+  font-weight: bold;
+}
