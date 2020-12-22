@@ -7,4 +7,4 @@ Para execução do projeto:
 - No CMD, acesse o diretorio da pasta do projeto "BikeThefts".
 - Digite o comando "npm -i" sem as aspas e espere o processo concluir.
 - Digite o comando "npm start" sem as aspas e espere o processo concluir.
-- Abra um navegador de sua preferência que esteja entre os navegadores homologados, e em seguida e acesso a url http://localhost:3000/.
+- Caso o navegador não abra automaticamente, abra um navegador de sua preferência que esteja entre os navegadores homologados, e em seguida e acesso a url http://localhost:3000/.
